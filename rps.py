@@ -22,4 +22,4 @@ def is_win(player, opponent):
         return True
     return False    
 if __name__ == '__main__':
-    print(play())
+    print(play())l
